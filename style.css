@@ -1,0 +1,40 @@
+#h1{
+    color: blueviolet;
+}
+#h2{
+    color: aqua;
+    font-style:italic ;
+}
+#lines{
+    line-height: 3;
+}
+#h3{
+    color: chartreuse;
+margin: 25px;
+}
+.ul{
+    word-spacing: 15px;
+    letter-spacing: 3px;
+    color: brown;
+}
+.para{
+    font-size: 18px;
+    color: coral;
+}
+.para2{
+    font-size: 18px;
+    color: coral;
+font-size: small;
+}
+.para3{
+    font-size: 18px;
+    color: coral;
+font-size: large;
+font-style: italic;
+font-weight: 100;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgba(47, 147, 209, 0.984);
+}
